@@ -1,0 +1,6 @@
+{
+  "name": "SafeClick UG",
+  "description": "Stay Safe Online. Weerinde Ku Mutimbagano. Offline-first digital safety education for everyday Ugandans in English and Luganda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
